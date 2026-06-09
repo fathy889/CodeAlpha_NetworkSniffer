@@ -1,4 +1,4 @@
-# 🔍 CodeAlpha Network Sniffer
+# 🔍 Network Sniffer
 ### Cyber Security Internship — Task 1
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
@@ -124,9 +124,9 @@ Unauthorized packet sniffing is illegal and unethical.
 
 ## 👤 Author
 
-**Fathy WAEL** — CodeAlpha Cyber Security Intern  
+**Fathy WAEL** - Cyber Security Intern  
 GitHub: [@fathy889](https://github.com/fathy889)
 
 ---
 
-*CodeAlpha Cyber Security Internship — Task 1*
+*Cyber Security Internship — Task 1*
